@@ -1,0 +1,2 @@
+Dữ liệu:
+https://www.kaggle.com/kritikseth/fruit-and-vegetable-image-recognition
